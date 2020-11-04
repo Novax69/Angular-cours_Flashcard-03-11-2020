@@ -5,7 +5,7 @@ Cours Angular du 03/11/2020
 ## Clone :
 
 ```bash
-
+git clone https://github.com/Novax69/Angular-cours_Flashcard-03-11-2020.git
 ```
 
 ## Installer les dependances :
