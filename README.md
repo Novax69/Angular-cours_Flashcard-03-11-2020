@@ -1,5 +1,33 @@
 # Flashcard
 
+Cours Angular du 03/11/2020
+
+## Clone :
+
+```bash
+
+```
+
+## Installer les dependances :
+
+```bash
+npm i  # installe les dépendances nodes
+
+```
+
+## Récuperer tout (si rien n'est téléchargé)
+
+```bash
+git pull
+```
+
+---
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
